@@ -3,6 +3,7 @@ r=random.randint(1,3)
 win =False
 def game():
     pass
+print ("Welcome to stone paper or scissor game!")
 print ("Computer thinking:stone(s) paper(p) or scissors(sc) ")
 if r==1:
     comp="stone"
